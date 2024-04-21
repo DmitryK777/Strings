@@ -19,7 +19,8 @@ void main()
 	setlocale(LC_ALL, "Russian");
 	cout << "Strings:" << endl << endl;
 
-	char arr[] = "Хорошо     живет   на  свете    Винни   Пух";
+	//char arr[] = "Хорошо     живет   на  свете    Винни   Пух";
+	char arr[] = "аргентина манит негра";
 	//char arr[] = "АБввБА";
 	//char arr[] = "5479745";
 
